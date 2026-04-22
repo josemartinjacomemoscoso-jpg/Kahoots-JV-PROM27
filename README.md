@@ -3,7 +3,7 @@
 Repositorio con Kahoots para futuras generaciones
 
 ## 📚 Kahoot cultura general + revista MD + la publicidad
-- [Publicidad]([LINK_AQUI](https://create.kahoot.it/share/cultura-general-revista-diners/30ba8a29-0814-4673-9cc1-8b88e3469c0c))
+- [Publicidad](https://create.kahoot.it/share/cultura-general-revista-diners/30ba8a29-0814-4673-9cc1-8b88e3469c0c))
 - [Revista MD](LINK_AQUI)
 
 ## 🧪 Biología
